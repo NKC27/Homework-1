@@ -1,4 +1,4 @@
-/* Selects all elements */
+/* Selects all elements Universal Selector*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -21,7 +21,7 @@ p {
 nav {
     display: inline-block;
 }
-/* all elements with class= */
+/* all elements with class .class selector */
 
 .header {
     padding: 20px;
