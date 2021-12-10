@@ -79,6 +79,28 @@ header nav ul li {
     margin-left: 20px;
 }
 
+
+/* consolidation of clases each section */
+.services {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* consolidation of img height */
+.services img  {
+    max-height: 200px;
+}
+
+/* consolidation of h2 header tags,margin and font size*/
+.services h2{
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -105,26 +127,6 @@ header nav ul li {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-/* consolidation of clases each section */
-.services {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* consolidation of img height */
-.services img  {
-    max-height: 200px;
-}
-
-/* consolidation of h2 header tags,margin and font size*/
-.services h2{
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 /* footer section */
