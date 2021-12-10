@@ -6,6 +6,7 @@ Html
 •	title element added to the header section.
 •	header element added instead of <div>.
 •	nav added for navigational links.
+•   Link fixed in navigation.
 •	figure added instead of <div>.
 •	alt description added to all images for viewer accessibility.
 •	aside added for benefits section, right side stacked column.
