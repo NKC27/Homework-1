@@ -1,4 +1,4 @@
-# Homework-1
+# Horiseon Services
 Changes made to index.html & styles.css
 
 Html
